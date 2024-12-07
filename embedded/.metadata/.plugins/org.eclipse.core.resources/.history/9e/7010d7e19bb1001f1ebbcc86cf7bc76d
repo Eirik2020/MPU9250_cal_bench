@@ -1,0 +1,17 @@
+/*
+ * UART.h
+ *
+ *  Created on: Dec 3, 2024
+ *      Author: xoonz
+ */
+
+#ifndef SRC_UART_H_
+#define SRC_UART_H_
+
+class UART {
+public:
+	UART();
+	virtual ~UART();
+};
+
+#endif /* SRC_UART_H_ */
