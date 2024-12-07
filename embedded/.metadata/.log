@@ -46,3 +46,54 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-12-06 22:11:22.710
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-12-07 19:45:12.772 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-12-07 19:45:51.035
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-12-07 19:45:51.046
+!MESSAGE Log4j2 initialized with config file C:\ws\mechatronics\MPU9250_cal_bench\embedded\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-12-07 19:46:03.442
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-07 19:51:41.890
+!MESSAGE Indexed 'MPU9250' (22 sources, 82 headers) in 5.29 sec: 4,763 declarations; 22,640 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0073%)
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2024-12-07 20:02:35.519
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\Users\xoonz\AppData\Local\Temp\STM32CubeIDE_9a907da2-1cbd-4f15-9ba4-51881e3479a7
+!SESSION 2024-12-07 20:03:10.066 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/ws/mechatronics/MPU9250_cal_bench/embedded/
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-12-07 20:03:22.533
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-12-07 20:03:22.535
+!MESSAGE Log4j2 initialized with config file C:\ws\mechatronics\MPU9250_cal_bench\embedded\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-12-07 20:03:33.657
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-12-07 20:21:48.100 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-12-07 20:22:04.600
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-12-07 20:22:04.602
+!MESSAGE Log4j2 initialized with config file C:\ws\mechatronics\MPU9250_cal_bench\embedded\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-12-07 20:22:14.273
+!MESSAGE Started RMI Server, listening on port 41337
